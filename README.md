@@ -1,4 +1,4 @@
-# webdev_week7🎨 Web Animation Project
+🎨 Web Animation Project
 📌 Overview
 
 This project demonstrates the use of HTML, CSS transitions, keyframe animations, and JavaScript functions in a simple interactive web page. It was created as part of a Web Development assignment to showcase structured content, styling, functional logic, and animation triggers.
